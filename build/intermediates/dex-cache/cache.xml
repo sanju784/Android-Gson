@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sanjeevchaurasia/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/sanjeevchaurasia/Desktop/android_project/Android-Gson/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_66ecbc27032c70e1bdbb6a6a82649a433a2bf726/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanjeevchaurasia/Desktop/android_project/Android-Gson/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/sanjeevchaurasia/Desktop/android_project/Android-Gson/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5a48147ee95acbaae5709839f047cd7d0957d08a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanjeevchaurasia/.android/build-cache/6b6c3ff7bdf9c160a306fe0817bd97968dffbe70/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/sanjeevchaurasia/Desktop/android_project/Android-Gson/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2614c2b0d91d70068b304ec835e28940dd6c9100/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanjeevchaurasia/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/sanjeevchaurasia/Desktop/android_project/Android-Gson/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_58cf2dd5389cf71e3da34ee799ef8e6e4583de86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanjeevchaurasia/.android/build-cache/12dea6bb607bae1f886b8647f9a367f428fcfb36/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/sanjeevchaurasia/Desktop/android_project/Android-Gson/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b9efc6c392f386484979862487bf59019c47324a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanjeevchaurasia/Desktop/android_project/Android-Gson/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42395312fca1e0fdbf8f251e0b9c99d76cee9cb6">
+        <dex dex="/Users/sanjeevchaurasia/Desktop/android_project/Android-Gson/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c7b0f6c14aaf1c6dd041adf761d5e1d97dd37c0e/classes.dex" />
+    </item>
+
+</items>
